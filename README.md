@@ -1,11 +1,22 @@
-[README.md](https://github.com/geos02/geos02/files/10375996/README.md)
-- 👋 Hi, I’m @geos02 and I I am passionate about new technologies and programming 
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML, CSS and JavaScript in order to become a frontend developer. Although, eventually I'd like to learn some backend languages as PHP or Python. I also know a bit of Java. All I know I learned it by myself
-- 💞️ I’m looking to collaborate on small web projects because I'd like to improve my knowledge
-- 📫 How to reach me ...
+# Welcome to my profile!
+Hi and welcome to my profile! I'm a Web developer student based in Zaragoza, with a passion for learning and creative things.
 
-<!---
-geos02/geos02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎨 My Interests
+---
+- Game Development
+- Web Development
+- Computer architecture and organization
+
+## 🎭 My Hobbies and Preferences
+---
+- Reading
+- Playing the guitar
+- Video Games
+
+## 🔬 Technologies 
+---
+
+### 💻 Languages
+![Github](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![Github](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
+![Github](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
