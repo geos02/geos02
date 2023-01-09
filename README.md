@@ -1,3 +1,4 @@
+[README.md](https://github.com/geos02/geos02/files/10375996/README.md)
 - 👋 Hi, I’m @geos02 and I I am passionate about new technologies and programming 
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning HTML, CSS and JavaScript in order to become a frontend developer. Although, eventually I'd like to learn some backend languages as PHP or Python. I also know a bit of Java. All I know I learned it by myself
